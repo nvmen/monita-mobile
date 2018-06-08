@@ -58,7 +58,7 @@ export default class LoggedOut extends Component {
             source={require('../img/airbnb-logo.png')}
             style={styles.logo}
           />
-          <Text style={styles.welcomeText}>Welcome to Airbnb.</Text>
+          <Text style={styles.welcomeText}>Welcome to Monita.</Text>
           <RoundedButton
             text="Continue with Facebook"
             textColor={colors.green01}

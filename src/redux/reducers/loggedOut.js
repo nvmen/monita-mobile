@@ -1,9 +1,3 @@
-/**
- * Airbnb Clone App
- * @author: Andy
- * @Url: https://www.cubui.com
- */
-
 import createReducer from '../helpers/createReducer';
 import * as types from '../actions/types';
 

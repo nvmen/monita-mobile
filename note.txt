@@ -1,0 +1,2 @@
+chua config ios
+https://github.com/oblador/react-native-vector-icons

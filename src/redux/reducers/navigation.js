@@ -4,8 +4,7 @@
  * @Url: https://www.cubui.com
  */
 
-import createReducer from '../helpers/createReducer';
-import { NavigationActions } from 'react-navigation';
+
 import { AppNavigator } from '../../navigators/AppNavigator';
 import { StatusBar } from 'react-native';
 
